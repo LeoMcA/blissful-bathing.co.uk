@@ -35,7 +35,7 @@ nav ul {
 nav li {
   list-style-type: none;
   display: inline-block;
-  font: 20px/30px "Neris Black";
+  font: 20px/30px "nerislight";
   margin-left: 40px;
 }
 
@@ -44,16 +44,14 @@ nav a {
 }
 
 h1 {
-  /*font: 45px "nerissemibold", sans-serif;*/
-  font: 60px "Gabriola", serif;
+  font: 60px "Gabriola", "gabriolaregular", serif;
   font-weight: normal;
   text-align: center;
   margin-top: 40px;
 }
 
 h2 {
-  /*font: 30px "nerislight", sans-serif;*/
-  font: 40px "Gabriola", serif;
+  font: 40px "Gabriola", "gabriolaregular", serif;
   font-weight: normal;
   text-align: center;
 }
@@ -61,7 +59,7 @@ h2 {
 footer {
   padding: 50px 0;
   color: #05C1FF;
-  font: 15px "nerissemibold", sans-serif;
+  font: 15px "nerislight", sans-serif;
 }
 
 footer p {
